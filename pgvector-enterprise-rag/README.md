@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-0.5-green?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
+👤 **Author:** Suresh Nadipineni
+🔗 **LinkedIn:** [linkedin.com/in/suresh-nadipineni](https://linkedin.com/in/suresh-nadipineni)
+📧 **Email:** info.dba86@gmail.com
+📍 **Location:** Dallas, TX | Available Immediately
+
+---
 # pgvector Enterprise RAG System
 ### PostgreSQL-powered Retrieval-Augmented Generation (RAG) for Enterprise AI
 
